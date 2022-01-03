@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChessCoreGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChessCoreGame.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
